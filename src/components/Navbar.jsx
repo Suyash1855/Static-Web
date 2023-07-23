@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <>
       <div class="mx-auto flex text-[20px] bg-[#145b72] h-[90px]  justify-center items-center py-4">
-        <div class="flex px-20 w-full  justify-between  md:gap-[70px] gap-[30px]  items-center">
+        <div class="flex px-20 w-full justify-center md:justify-between  md:gap-[70px] gap-[0px]  items-center">
           <div class="w-[120px] h-[50px] md:block hidden">
             <Image className="w-full h-full" src={logo} alt="" />
           </div>
