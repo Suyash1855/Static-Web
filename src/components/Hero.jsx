@@ -6,7 +6,7 @@ function Hero() {
     <>
       <div
         id="hero"
-        className="max-w-7xl  flex md:flex-row flex-col gap-[10px] md:gap-[100px] justify-center items-center mx-auto md:my-[100px] my-[50px] "
+        className="max-w-7xl  flex md:flex-row flex-col gap-[10px] md:gap-[100px] justify-center items-center mx-[20px] md:mx-auto md:my-[100px] my-[50px] "
       >
         <div className="flex flex-col justify-center ">
           <h1 className="md:text-[70px]  text-[40px] text-start font-rufina ">
@@ -32,3 +32,5 @@ function Hero() {
 }
 
 export default Hero;
+
+// sldjkc ls cls cmalc alc alcla clkaodlsd asdnoan alm skandpna al kl

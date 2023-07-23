@@ -44,7 +44,7 @@ function Carousal() {
       selectedItem={activeSlide}
       onChange={handleSlideChange}
       showThumbs={false}
-      className=" md:w-[500px] w-[400px] h-[400px] md:h-[500px] flex justify-center items-center "
+      className=" md:w-[500px] w-[370px] h-[370px] md:h-[500px] flex justify-center items-center "
     >
       {slideData.map((slide, index) => (
         <div key={index}>
